@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @invasivelycoding
 - 👀 I’m interested in reverse engineering apex legends and creating random shit
-- 🌱 I’m currently learning c++, js
-- 💞️ I’m looking to collaborate on amoslegends
+- 🌱 I’m currently learning Python, JS
+- 💞️ I’m looking to collaborate on researching xbox one
 - 📫 How to reach me. dont.
 
 <!---
