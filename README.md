@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Jef.
 #### Welcome to my profile.
-![Welcome to my profile.](https://cdn.discordapp.com/attachments/864366448466067466/1174594704881483786/github-header-image_1.png?ex=65682990&is=6555b490&hm=f757b3849bcfc7c1827df6e7828d40d21e5e43090ed1f037d6159b22b480116b&](https://cdn.discordapp.com/attachments/864366448466067466/1174597472438460476/github-header-image_3.png?ex=65682c24&is=6555b724&hm=0aba209c48fb125143643f1e1d29a7220b94ffcb2c1fa80b05d3b0efd60f8205&)
+![Welcome to my profile.](https://cdn.discordapp.com/attachments/864366448466067466/1174597472438460476/github-header-image_3.png?ex=65682c24&is=6555b724&hm=0aba209c48fb125143643f1e1d29a7220b94ffcb2c1fa80b05d3b0efd60f8205&)
 
 Hey there! My name is Jef and I specialize in UI/UX Design, Hacking, Pentesting, Cybersecurity, Tinkering, and more. I enjoy playing a wide range of sports in my free time and learning many new things related to computers. There isn't much to look at now, but there is a lot going on behind the scenes.
 
