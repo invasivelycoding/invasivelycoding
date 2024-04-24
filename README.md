@@ -4,7 +4,7 @@
 
 Hey there! My name is Jef and I specialize in UI/UX Design, Hacking, Pentesting, Cybersecurity, Tinkering, and more. I enjoy playing a wide range of sports in my free time and learning many new things related to computers. There isn't much to look at now, but there is a lot going on behind the scenes.
 
-Skills: HTML / REACT / JS / BOOTSTRAP / PYTHON / POWERSHELL / JAVA / LUA / BASH / SEC PRO CERTIFIED (TESTOUT) / PC PRO CERTIFIED (TEST OUT) / SYSTEM HARDENING AND DEFENDING
+Skills: HTML / REACT / JS / BOOTSTRAP / ASTRO / PYTHON / POWERSHELL / JAVA / LUA / BASH / SEC PRO CERTIFIED (TESTOUT) / PC PRO CERTIFIED (TEST OUT) / SYSTEM HARDENING AND DEFENDING
 
 - 🔭 I’m currently working on a website for my cybersecurity team. 
 - 🌱 I’m currently learning React, JS, Bootstrap, HTML. 
